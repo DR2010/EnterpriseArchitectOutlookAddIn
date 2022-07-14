@@ -1,0 +1,13 @@
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\EA Outlook AddIn 2007.dll.config
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\EA Outlook AddIn 2007.dll
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\EA Outlook AddIn 2007.pdb
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\EA Outlook AddIn 2007.dll.manifest
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\EA Outlook AddIn 2007.vsto
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\ResolveAssemblyReference.cache
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA_Outlook_AddIn_2007.AddEmailToProjectTrackingElementForm.resources
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA_Outlook_AddIn_2007.Properties.Resources.resources
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA_Outlook_AddIn_2007.ViewProjectInformationForm.resources
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA Outlook AddIn 2007.csproj.GenerateResource.Cache
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA Outlook AddIn 2007.dll
+C:\tfs\Solution Design\EnterpriseArchitectOutlookAddIn\EA Outlook AddIn 2007\obj\Debug\EA Outlook AddIn 2007.pdb

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA Outlook AddIn", "EnterpriseArchitectOutlookAddIn\EA Outlook AddIn.csproj", "{B143934E-8844-4D54-82C1-63D9559F4108}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EnterpriseArchitectOutlookAddInSetup", "EnterpriseArchitectOutlookAddInSetup\EnterpriseArchitectOutlookAddInSetup", "{8A09C7E2-9342-498B-B719-6140373E78CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA Outlook AddIn 2007", "EA Outlook AddIn 2007\EA Outlook AddIn 2007.csproj", "{9C4E4621-5308-4687-A074-403E9A420542}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://esg-tfsserver:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EnterpriseArchitectOutlookAddInSetup\\EnterpriseArchitectOutlookAddInSetup
+		SccProjectName1 = EnterpriseArchitectOutlookAddInSetup
+		SccLocalPath1 = EnterpriseArchitectOutlookAddInSetup
+		SccProjectUniqueName2 = EnterpriseArchitectOutlookAddIn\\EA\u0020Outlook\u0020AddIn.csproj
+		SccProjectName2 = EnterpriseArchitectOutlookAddIn
+		SccLocalPath2 = EnterpriseArchitectOutlookAddIn
+		SccProjectUniqueName3 = EA\u0020Outlook\u0020AddIn\u00202007\\EA\u0020Outlook\u0020AddIn\u00202007.csproj
+		SccProjectName3 = EA\u0020Outlook\u0020AddIn\u00202007
+		SccLocalPath3 = EA\u0020Outlook\u0020AddIn\u00202007
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B143934E-8844-4D54-82C1-63D9559F4108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B143934E-8844-4D54-82C1-63D9559F4108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B143934E-8844-4D54-82C1-63D9559F4108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B143934E-8844-4D54-82C1-63D9559F4108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A09C7E2-9342-498B-B719-6140373E78CA}.Debug|Any CPU.ActiveCfg = Debug
+		{8A09C7E2-9342-498B-B719-6140373E78CA}.Release|Any CPU.ActiveCfg = Release
+		{9C4E4621-5308-4687-A074-403E9A420542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4E4621-5308-4687-A074-403E9A420542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4E4621-5308-4687-A074-403E9A420542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4E4621-5308-4687-A074-403E9A420542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
